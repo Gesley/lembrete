@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lembrete de Compras</string>
+    <string name="very_strong">Muito forte</string>
+    <string name="strong">Forte</string>
+    <string name="medium">Média</string>
+    <string name="weak">Fraca</string>
+</resources>
